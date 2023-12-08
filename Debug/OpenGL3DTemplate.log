@@ -1,0 +1,4 @@
+﻿  OpenGL3DTemplate.cpp
+C:\Users\Nardi\OneDrive\Desktop\OpenGL3DTemplate\OpenGL3DTemplate.cpp(572,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\Nardi\OneDrive\Desktop\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
